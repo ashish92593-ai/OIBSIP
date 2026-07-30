@@ -7,8 +7,8 @@ A command-line Python tool that generates strong, random passwords based on user
 
 ## 🛠️ Built With
 - Python 3
-- `random`
-- `string`
+- random
+- string
 
 ## ✅ Features
 - User-defined password length (minimum 8 characters enforced)
@@ -17,13 +17,19 @@ A command-line Python tool that generates strong, random passwords based on user
 - Input validation for invalid lengths or selections
 - Option to generate another password without restarting
 
+## 📂 Project Structure
+
+    Python-Task3-PasswordGenerator/
+    ├── password_generator.py
+    ├── README.md
+    └── screenshot1.png
+
 ## 🚀 How to Run
-```bash
-python password_generator.py
-```
+
+    python password_generator.py
 
 ## 📖 What I Learned
-- Using the `random` and `string` modules for character pools
+- Using the random and string modules for character pools
 - Building input validation loops
 - Structuring recursive prompts for repeated user input
 
