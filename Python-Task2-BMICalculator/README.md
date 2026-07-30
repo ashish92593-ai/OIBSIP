@@ -3,7 +3,7 @@
 A simple command-line Python tool that calculates Body Mass Index (BMI) and classifies it into standard health categories.
 
 ## 📸 Screenshots
-*(add a screenshot of the program running here)*
+![BMI Calculator Screenshot](bmi_calculator_output.png)
 
 ## 🛠️ Built With
 - Python 3
@@ -20,7 +20,7 @@ A simple command-line Python tool that calculates Body Mass Index (BMI) and clas
     Python-Task2-BMICalculator/
     ├── bmi_calculator.py
     ├── README.md
-    └── screenshot1.png
+    └── bmi_calculator_output.png
 
 ## 🚀 How to Run
 
@@ -32,7 +32,7 @@ A simple command-line Python tool that calculates Body Mass Index (BMI) and clas
 - Basic error handling with try/except
 
 ## 👤 Author
-Anant Kumar Agarwal — B.Tech CSE, RIT
+Ashish Kumar — B.Tech EE, RIT
 
 ## 📄 License
 This project is licensed under the MIT License.
