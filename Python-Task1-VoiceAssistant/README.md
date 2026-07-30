@@ -3,7 +3,7 @@
 A Python-based voice assistant that listens to spoken commands and responds with useful actions like greetings, time, date, and web search.
 
 ## 📸 Screenshots
-*(add a screenshot of the program running here)*
+![Voice Assistant Screenshot](voice_assistant_output.png)
 
 ## 🛠️ Built With
 - Python 3.12
@@ -25,7 +25,7 @@ A Python-based voice assistant that listens to spoken commands and responds with
     Python-Task1-VoiceAssistant/
     ├── voice_assistant.py
     ├── README.md
-    └── screenshot1.png
+    └── voice_assistant_output.png
 
 ## 🚀 How to Run
 > ⚠️ Note: This project requires Python 3.12 (not 3.14), as speech_recognition and PyAudio don't yet have compatible wheels for Python 3.14.
