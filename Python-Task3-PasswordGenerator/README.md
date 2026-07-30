@@ -3,7 +3,7 @@
 A command-line Python tool that generates strong, random passwords based on user-defined length and character type criteria.
 
 ## 📸 Screenshots
-*(add a screenshot of the program running here)*
+![Password Generator Screenshot](password_generator_output.png)
 
 ## 🛠️ Built With
 - Python 3
@@ -22,7 +22,7 @@ A command-line Python tool that generates strong, random passwords based on user
     Python-Task3-PasswordGenerator/
     ├── password_generator.py
     ├── README.md
-    └── screenshot1.png
+    └── password_generator_output.png
 
 ## 🚀 How to Run
 
@@ -34,7 +34,7 @@ A command-line Python tool that generates strong, random passwords based on user
 - Structuring recursive prompts for repeated user input
 
 ## 👤 Author
-Anant Kumar Agarwal — B.Tech CSE, RIT
+Ashish Kumar — B.Tech EE, RIT
 
 ## 📄 License
 This project is licensed under the MIT License.
