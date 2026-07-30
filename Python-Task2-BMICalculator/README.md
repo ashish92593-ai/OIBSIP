@@ -7,7 +7,7 @@ A simple command-line Python tool that calculates Body Mass Index (BMI) and clas
 
 ## 🛠️ Built With
 - Python 3
-- `input()` and basic arithmetic
+- input() and basic arithmetic
 
 ## ✅ Features
 - Prompts for weight (kg) and height (m)
@@ -15,10 +15,16 @@ A simple command-line Python tool that calculates Body Mass Index (BMI) and clas
 - Classifies into Underweight / Normal / Overweight / Obese
 - Input validation for non-numeric and negative values
 
+## 📂 Project Structure
+
+    Python-Task2-BMICalculator/
+    ├── bmi_calculator.py
+    ├── README.md
+    └── screenshot1.png
+
 ## 🚀 How to Run
-```bash
-python bmi_calculator.py
-```
+
+    python bmi_calculator.py
 
 ## 📖 What I Learned
 - Writing reusable validation functions
