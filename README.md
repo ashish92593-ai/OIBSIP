@@ -3,8 +3,8 @@
 This repository contains all my task submissions for the Oasis Infobyte Summer Internship Program (SIP) — **Python Programming Track**.
 
 ## 👤 About Me
-**Anant Kumar Agarwal**
-B.Tech CSE, RIT (4th Semester)
+**Ashish Kumar**
+B.Tech EE, RIT
 
 ## 📋 Live Demos Table
 
@@ -27,15 +27,15 @@ B.Tech CSE, RIT (4th Semester)
     ├── Python-Task1-VoiceAssistant/
     │   ├── voice_assistant.py
     │   ├── README.md
-    │   └── screenshot1.png
+    │   └── voice_assistant_output.png
     ├── Python-Task2-BMICalculator/
     │   ├── bmi_calculator.py
     │   ├── README.md
-    │   └── screenshot1.png
+    │   └── bmi_calculator_output.png
     └── Python-Task3-PasswordGenerator/
         ├── password_generator.py
         ├── README.md
-        └── screenshot1.png
+        └── password_generator_output.png
 
 ## 📖 What I Learned
 - Building command-line and voice-based Python applications
