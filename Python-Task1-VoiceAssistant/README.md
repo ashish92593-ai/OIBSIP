@@ -43,7 +43,7 @@ Say "hello" to start, then try commands like "what's the time", "what's the date
 - Structuring command-handling logic with conditional checks
 
 ## 👤 Author
-Anant Kumar Agarwal — B.Tech CSE, RIT
+Ashish Kumar — B.Tech EE, RIT
 
 ## 📄 License
 This project is licensed under the MIT License.
